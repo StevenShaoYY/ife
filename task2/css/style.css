@@ -67,9 +67,13 @@
 	#picture>li{
 		border:1px #000 solid;
 		margin:30px 0px 30px 50px;
-		width:600px;
+		width:380px;
 	}
 
+	img{
+		width:300px;
+		hright:250px;
+	}
 	.Ptitle>p{
 		margin-top:20px;
 		margin-left:-20px;
